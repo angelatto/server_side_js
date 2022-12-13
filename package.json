@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/angelatto/server_side_js#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jade": "^1.11.0",
     "supervisor": "^0.12.0",
     "underscore": "^1.10.2"
